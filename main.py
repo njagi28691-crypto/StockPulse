@@ -20,6 +20,7 @@ def print_banner():
     print("[7] Exit program")
     print("-" * 65)
 
+
   def get_validated_choice():
     """Ensure menu selection is a valid interger between 1 and 7."""
     while True:
